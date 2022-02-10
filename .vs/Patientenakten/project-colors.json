@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0c29642f-f166-4799-99f9-dcd4cb406c03": {
+      "ProjectGuid": "0c29642f-f166-4799-99f9-dcd4cb406c03",
+      "DisplayName": "Patientenakten",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
